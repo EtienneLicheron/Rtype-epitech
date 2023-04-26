@@ -1,0 +1,5 @@
+texture path     | x | y |
+spaceship_1_b.png|150|200|
+spaceship_1_g.png|250|200|
+spaceship_1_o.png|450|200|
+spaceship_1_r.png|650|200|
